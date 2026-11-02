@@ -1,5 +1,4 @@
-#classes des personnages (name,trust,danger)
+#classes des personnages (name,ATK,DEF,HEAL)
 
-#classe majordome (nom,trust, hostilité)
-#classe Lucien (nom,trust,hostilité)
+
 
