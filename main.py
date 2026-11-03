@@ -11,7 +11,7 @@
             #check if answer valid
                 #else error messages
 
-    # select type of Silver
+    # select type of characters
         #check answer is valid
             #else error messages
     #get selected player
@@ -19,18 +19,20 @@
 #lancer la partie
     #affichage message game's goal
 
-#until monster and player alive
+#check is player alive 
 
-    #get one random monster
-        #show chosen monster and stats
-    #ask choice player (atk,def,heal)
-        #check if choice valid
-        #if not error message
-    #collect choice
-    #apply statu/actions
 
-    #get one random action for monster
-    #apply action
+        #get one random monster
+            #show chosen monster and stats
 
+        #ask choice player (atk,def,heal)
+            #check if choice valid
+                #if not error message
+        #collect choice
+        #apply statu/actions
+        #check if monster alive
+            #get one random action for monster
+            #apply action
+    #if he is not
 
 
