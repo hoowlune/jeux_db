@@ -1,3 +1,3 @@
-#ask if user shure 
+#ask if user shure 1:yes 2:no
 #check if choice valid
-#quit the game
+    #if valide quit the game
