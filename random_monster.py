@@ -1,0 +1,1 @@
+#get from db one random monster
