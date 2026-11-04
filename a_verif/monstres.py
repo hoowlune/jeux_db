@@ -1,4 +1,6 @@
-#monsters class
+#monsters class(self,nom,pv,atk)
+
+
 #vampire
 #zombie
 #ghost

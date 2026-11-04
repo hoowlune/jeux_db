@@ -1,4 +1,4 @@
-#classes des personnages (name,ATK,DEF,PV,)
+#classes des personnages (self,nom,pv,atk)
 
 #Soldat ATK !
 #Guerrier
