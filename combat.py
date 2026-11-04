@@ -1,6 +1,5 @@
 #combat()
 #   demander qui attaque()
-#   demander choix valide(1,3)
 #   hero attaque()
 #   pv monstre()
 #   monstre attaque()
@@ -37,3 +36,9 @@
 #       return true
 #   else :
 #       return false
+
+#demander qui attaque()
+#   afficher heros_en_vie()
+#   demander choix valide (1,3)
+#   heros = equipe[choix - 1]
+#   return heros
