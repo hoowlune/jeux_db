@@ -1,0 +1,2 @@
+#afficher equipe()
+#   afficher equipe

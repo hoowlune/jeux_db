@@ -1,4 +1,4 @@
 #attaque
     #is character alive
-    #pv - ATK damages
+    #pv - ATK 
 #update character/monster pv
