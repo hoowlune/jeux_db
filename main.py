@@ -7,7 +7,7 @@
 #   if le choix est 1 
 #       nouvelle partie()
 #   if le choix est 2
-#       quitter le jeu()
+#       quitter_le_jeu()
 
 #nouvelle partie():
 #   clear terminal
@@ -25,3 +25,6 @@
 #          combat()
 #       si not equipe en vie()
 #           game over
+
+#quitter_le_jeu()
+#   quit()
